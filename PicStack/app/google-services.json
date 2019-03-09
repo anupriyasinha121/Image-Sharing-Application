@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "761408723453",
+    "firebase_url": "https://picstack-b8c48.firebaseio.com",
+    "project_id": "picstack-b8c48",
+    "storage_bucket": "picstack-b8c48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761408723453:android:c4930226fa8b5b5c",
+        "android_client_info": {
+          "package_name": "com.example.anupriya.picstack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761408723453-8oat0iet09r6rkl16qdcbuoc2quruu6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anupriya.picstack",
+            "certificate_hash": "089911072615cfec97ae8e1ce030e54632623e52"
+          }
+        },
+        {
+          "client_id": "761408723453-qmg952ktf76rpp44ic36elijtilsdgck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC32ueuCbpCHUecWiJF0ythtksW0wBlXZQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761408723453-qmg952ktf76rpp44ic36elijtilsdgck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
